@@ -1,2 +1,2 @@
-# rn-abraaogas-sistema
-Aplicativo de Gerenciamento de Estoque da empresa Abraão Gás
+# Projeto Extensionista - Disciplina: Programação para dispositivos móveis
+Aplicativo de Gerenciamento de Estoque para empresa Abraão Gás
