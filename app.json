@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "meuApp",
-    "slug": "meuApp",
+    "name": "rn-app-layout-demo",
+    "slug": "rn-app-layout-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "meuapp",
+    "scheme": "rnapplayoutdemo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
